@@ -1,3 +1,5 @@
+![logo](https://github.com/Deepkhuman/deepkhuman/blob/main/Make%20your%20README.png)
+
 <h1 align="center">Hi 👋, I'm Devang Khuman</h1>
 <h3 align="center">A passionate mern stack developer</h3>
 
