@@ -1,7 +1,7 @@
 ![logo](https://github.com/Deepkhuman/deepkhuman/blob/main/banner2.png)
 
 <h1 align="center">Hi 👋, I'm Devang Khuman</h1>
-<h3 align="center">A passionate mern stack developer</h3>
+
 
 <img align="right" alt="Coding" src="https://github.com/Deepkhuman/deepkhuman/blob/main/WhatsApp%20GIF%202024-08-03%20at%2016.28.03.gif">
 
