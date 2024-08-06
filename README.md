@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Devang Khuman</h1>
 
 
-<img align="right" alt="Coding" src="https://github.com/Deepkhuman/deepkhuman/blob/main/WhatsApp%20GIF%202024-08-03%20at%2016.28.03.gif">
+<img align="right" alt="Coding" src="https://github.com/Deepkhuman/deepkhuman/blob/main/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepkhuman&label=Profile%20views&color=0e75b6&style=flat" alt="deepkhuman" /> </p>
 
